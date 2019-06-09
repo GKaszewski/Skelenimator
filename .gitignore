@@ -1,0 +1,5 @@
+build/*
+.vscode/*
+CMakeFiles/*
+CMakeCache.txt
+Skelenimator
